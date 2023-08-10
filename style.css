@@ -1,0 +1,25 @@
+#image{
+    border: 5px solid black;
+}
+#heading{
+    
+    font-size:30px;
+}
+
+body{
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+
+#wholething{
+    text-align: center;
+    font-family: 'Bricolage Grotesque', sans-serif;
+}
+
+#smile{
+    margin-top: 10%;
+    font-size: 15px;
+    font-family: 'Bricolage Grotesque', sans-serif;
+}
+
